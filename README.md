@@ -71,5 +71,3 @@ Config.Interiors = {
 - **Management**: Access the house menu from inside the property to manage keys or sell the home.
 
 ---
-
-*Part of the AstraV Premium Suite*
