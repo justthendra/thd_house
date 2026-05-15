@@ -34,6 +34,7 @@ A feature-rich housing system for the QBCore framework. This resource provides p
 - **ox_lib**
 - **qb-target**
 - **oxmysql**
+- **ox_doorlock**
 
 ---
 
